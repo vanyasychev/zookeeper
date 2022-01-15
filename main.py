@@ -122,7 +122,6 @@ It looks like we will soon have more rabbits!"""
 
 animals = [camel, lion, deer, goose, bat, rabbit]
 
-# write your code here
 place_number = ""
 while place_number != "exit":
     place_number = input("Please enter the number of the habitat "
